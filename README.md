@@ -1,11 +1,12 @@
 todos los ejemplos se encuentran en la carpeta src
 
-##ejecutar:
+## ejecutar
 
-npm install
-npm run dev
++ npm install
++ npm run dev
++ Ingresar a localhost:5173
 
-##dependencias:
+## dependencias
 
-npm >= 8.19.0
-node >= 18.12.0
++ npm >= 8.19.0
++ node >= 18.12.0
